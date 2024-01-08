@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Quote Invoices\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-14 07:58+0000\n"
+"PO-Revision-Date: 2018-12-14 07:59+0000\n"
+"Last-Translator: admin <rinkesh412@gmail.com>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.9"
+
+#. Name of the plugin
+msgid "Admin Quote Invoices"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin implements the functionality of admin modules."
+msgstr ""
+
+#. URI of the plugin
+msgid "#"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jyoti M"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.upwork.com/o/profiles/users/_~01b8271e5700438133/"
+msgstr ""
+
+msgid "Quotes"
+msgstr "quotazioni/offerta"
+
+msgid "Quotes Page"
+msgstr "Cita la pagina"
+
+msgid "Invoices"
+msgstr "Fatture"
+
+msgid "Invoice page"
+msgstr "Pagina della fattura"
+
+msgid "Manage Quotes"
+msgstr "Gestisci le quotazioni/offerta"
+
+msgid "Serial code"
+msgstr "Codice seriale"
+
+msgid "Add New Quote"
+msgstr "Aggiungi un nuovo preventivo"
+
+msgid "Object"
+msgstr "Oggetto"
+
+msgid "Customer"
+msgstr "Cliente"
+
+msgid "Select"
+msgstr "Selezionare"
+
+msgid "Date of creation"
+msgstr "Data di creazione"
+
+msgid "Date of issue"
+msgstr "Data di emissione"
+
+msgid "Select Product"
+msgstr "Seleziona prodotto"
+
+msgid "Add New Product"
+msgstr "Aggiungi nuovo prodotto"
+
+msgid "Product name"
+msgstr "Nome del prodotto"
+
+msgid "Cost"
+msgstr "Costo"
+
+msgid "Quantity"
+msgstr "Quantità"
+
+msgid "Taxes"
+msgstr "Le tasse"
+
+msgid "Total Cost"
+msgstr "Costo totale"
+
+msgid "Total Taxes"
+msgstr "Tasse totali"
+
+msgid "Total Sum"
+msgstr "Somma totale"
+
+msgid "Notes"
+msgstr "Gli appunti"
+
+msgid "Private Notes"
+msgstr "Privato Gli appunti"
+
+msgid "Accepted"
+msgstr "Accettato"
+
+msgid "Acceptance date"
+msgstr "Data di accettazione"
+
+msgid "Order Confirmation"
+msgstr "Conferma dell'ordine"
+
+msgid "Order Confirmation date"
+msgstr "Data di conferma dell'ordine"
+
+msgid "Attachment"
+msgstr "attaccamento"
+
+msgid "Description"
+msgstr "Descrizione"
+
+msgid "View"
+msgstr "vista"
+
+msgid "Remove"
+msgstr "Rimuovere"
+
+msgid "Add New attachment"
+msgstr "Aggiungi nuovo allegato"
+
+msgid "Edit Quote"
+msgstr "Modifica preventivo"
+
+msgid "Quotes per page"
+msgstr "Quotazioni per pagina"
+
+msgid "DataEmission"
+msgstr ""
+
+msgid "DateAccept"
+msgstr ""
+
+msgid "Gantt"
+msgstr ""
+
+msgid "Attachments"
+msgstr "allegati"
+
+msgid "Record deleted Successfully"
+msgstr "Record cancellato con successo"
+
+msgid "Filter Quote"
+msgstr "Filtra quotazioni"
+
+msgid "Filter Customer"
+msgstr "Filtra cliente"
+
+msgid "No records found"
+msgstr "Nessun record trovato"
+
+msgid "All Quotes"
+msgstr "Tutte le quotazioni/offerta"
+
+msgid "Add New Invoice"
+msgstr "Aggiungi nuova fattura"
+
+msgid "Edit Invoice"
+msgstr "Modifica fattura"
+
+msgid "All Invoices"
+msgstr "Tutte le fatture"
+
+msgid "Manage Invoices"
+msgstr "Gestisci fatture"
+
+msgid "Paid"
+msgstr "Pagato"
+
+msgid "Payment due date"
+msgstr "Scadenza del pagamento"
+
+msgid "Effective Payment date"
+msgstr "Data di pagamento effettiva"
+
+msgid "Filter Invoice"
+msgstr "Filtra fattura"
+
+msgid "Error, duplicate 1: Add New Product"
+msgstr ""
+
+msgid "Edit Product"
+msgstr "Modifica prodotto"
+
+msgid "All Products"
+msgstr "Tutti i prodotti"
+
+msgid "Code"
+msgstr "Codice"
+
+msgid "Filter Product"
+msgstr "Filtro prodotto"
+
+msgid "Manage Products"
+msgstr "Gestisci prodotti"
+
+msgid "Products"
+msgstr "Prodotti"
+
+msgid "Product page"
+msgstr "Pagina del prodotto"
+
+msgid "Save and Generate Invoice"
+msgstr "Salva e genera fattura"
+
+msgid "Save and Issue Invoice"
+msgstr "Salva ed emetti fattura"
+
+msgid "Job Gantt page"
+msgstr ""
+
+msgid "Job Gantt"
+msgstr ""
+
+msgid "Phase Anagraphic page"
+msgstr "Fase pagina anagrafica"
+
+msgid "Phase Anagraphic"
+msgstr "Fase anagrafica"
+
+msgid "Add New Phase"
+msgstr "Aggiungi nuova fase"
+
+msgid "Edit Phase"
+msgstr "Modifica fase"
+
+msgid "All Phase"
+msgstr "Tutta la fase"
+
+msgid "Phase name"
+msgstr "Nome della fase"
+
+msgid "Expected Start Date"
+msgstr "Data di inizio prevista"
+
+msgid "Expected End Date"
+msgstr "Data di fine prevista"
+
+msgid "Effective Start Date"
+msgstr "Data di inizio effettiva"
+
+msgid "Effective End Date"
+msgstr "Data di fine effettiva"
+
+msgid "Manage Phase"
+msgstr "Gestisci fase"
+
+msgid "Error, duplicate 1: Add New Phase"
+msgstr ""
+
+msgid "Add New Checklist"
+msgstr "Aggiungi una nuova lista di controllo"
+
+msgid "Filter Phase name"
+msgstr "Nome fase filtro"

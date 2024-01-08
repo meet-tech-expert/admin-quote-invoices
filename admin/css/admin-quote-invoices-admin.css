@@ -1,0 +1,83 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.aqi_form input[type='text'],.aqi_form select {
+    width: 40%;
+    height: 30px;
+}
+.aqi_form input[type="submit"] {
+}
+.aqi_form label.required:after {
+    content: "*";
+    margin-left: 5px;
+    color: #e80808;
+}
+.aqi_form .form-table th{
+	padding: 20px 10px 20px 10px;
+}
+table.product-table input[type='text']{
+	width:100%;
+}
+table.product-table,table.attach-table{
+	border-color: #c1c1c1;
+}
+table.product-table .dashicons-no,table.attach-table .dashicons-no {
+    color: #ec0d0d;
+    width: 50px;
+}
+table.product-table .dashicons:hover,table.attach-table .dashicons:hover,.remove-div span:hover,.remove-checklist:hover {
+    cursor: pointer;
+}
+table.product-table tbody tr:hover,table.attach-table tbody tr:hover {
+    background-color: #d8d3d34a;
+}
+table.attach-table td{
+	width: 200px;
+}
+table.attach-table input[type='text']{
+	width:90%;
+}
+li.attachment-li {
+    float: left;
+    width: 13%;
+    padding: 5px;
+    height: auto;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.thumbnail-div img {
+    width: 150px;
+    height: 150px;
+}
+.desc input[type="text"] {
+    width: 100%;
+    height: 40px;
+}
+li.attachment-li .info {
+    padding: 5px;
+    text-align: center;
+}
+.remove-div {
+    padding: 5px;
+    text-align: center;
+}
+.remove-div span {
+    color: red;
+    font-size: 15px;
+}
+img.attach-img {
+    width: 20%;
+}
+table.searchforms tbody td {
+    vertical-align: middle;
+}
+span.dashicons.dashicons-no.remove-checklist{
+    color: #ec0d0d;
+    width: 35px;
+    vertical-align: middle;
+}
+li#toplevel_page_quotes ul li:last-child, li#toplevel_page_quotes ul li:nth-child(5) {
+    display: none;
+}

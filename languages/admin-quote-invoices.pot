@@ -1,0 +1,266 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-14 07:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+msgid "Admin Quote Invoices"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin implements the functionality of admin modules."
+msgstr ""
+
+#. URI of the plugin
+msgid "#"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jyoti M"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.upwork.com/o/profiles/users/_~01b8271e5700438133/"
+msgstr ""
+
+msgid "Quotes"
+msgstr ""
+
+msgid "Quotes Page"
+msgstr ""
+
+msgid "Invoices"
+msgstr ""
+
+msgid "Invoice page"
+msgstr ""
+
+msgid "Manage Quotes"
+msgstr ""
+
+msgid "Serial code"
+msgstr ""
+
+msgid "Add New Quote"
+msgstr ""
+
+msgid "Object"
+msgstr ""
+
+msgid "Customer"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Date of creation"
+msgstr ""
+
+msgid "Date of issue"
+msgstr ""
+
+msgid "Select Product"
+msgstr ""
+
+msgid "Add New Product"
+msgstr ""
+
+msgid "Product name"
+msgstr ""
+
+msgid "Cost"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Taxes"
+msgstr ""
+
+msgid "Total Cost"
+msgstr ""
+
+msgid "Total Taxes"
+msgstr ""
+
+msgid "Total Sum"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Private Notes"
+msgstr ""
+
+msgid "Accepted"
+msgstr ""
+
+msgid "Acceptance date"
+msgstr ""
+
+msgid "Order Confirmation"
+msgstr ""
+
+msgid "Order Confirmation date"
+msgstr ""
+
+msgid "Attachment"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Add New attachment"
+msgstr ""
+
+msgid "Edit Quote"
+msgstr ""
+
+msgid "Quotes per page"
+msgstr ""
+
+msgid "DataEmission"
+msgstr ""
+
+msgid "DateAccept"
+msgstr ""
+
+msgid "Gantt"
+msgstr ""
+
+msgid "Attachments"
+msgstr ""
+
+msgid "Record deleted Successfully"
+msgstr ""
+
+msgid "Filter Quote"
+msgstr ""
+
+msgid "Filter Customer"
+msgstr ""
+
+msgid "No records found"
+msgstr ""
+
+msgid "All Quotes"
+msgstr ""
+
+msgid "Add New Invoice"
+msgstr ""
+
+msgid "Edit Invoice"
+msgstr ""
+
+msgid "All Invoices"
+msgstr ""
+
+msgid "Manage Invoices"
+msgstr ""
+
+msgid "Paid"
+msgstr ""
+
+msgid "Payment due date"
+msgstr ""
+
+msgid "Effective Payment date"
+msgstr ""
+
+msgid "Filter Invoice"
+msgstr ""
+
+msgid "Error, duplicate 1: Add New Product"
+msgstr ""
+
+msgid "Edit Product"
+msgstr ""
+
+msgid "All Products"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Filter Product"
+msgstr ""
+
+msgid "Manage Products"
+msgstr ""
+
+msgid "Products"
+msgstr ""
+
+msgid "Product page"
+msgstr ""
+
+msgid "Save and Generate Invoice"
+msgstr ""
+
+msgid "Save and Issue Invoice"
+msgstr ""
+
+msgid "Job Gantt page"
+msgstr ""
+
+msgid "Job Gantt"
+msgstr ""
+
+msgid "Phase Anagraphic page"
+msgstr ""
+
+msgid "Phase Anagraphic"
+msgstr ""
+
+msgid "Add New Phase"
+msgstr ""
+
+msgid "Edit Phase"
+msgstr ""
+
+msgid "All Phase"
+msgstr ""
+
+msgid "Phase name"
+msgstr ""
+
+msgid "Expected Start Date"
+msgstr ""
+
+msgid "Expected End Date"
+msgstr ""
+
+msgid "Effective Start Date"
+msgstr ""
+
+msgid "Effective End Date"
+msgstr ""
+
+msgid "Manage Phase"
+msgstr ""
+
+msgid "Error, duplicate 1: Add New Phase"
+msgstr ""
+
+msgid "Add New Checklist"
+msgstr ""
+
+msgid "Filter Phase name"
+msgstr ""
